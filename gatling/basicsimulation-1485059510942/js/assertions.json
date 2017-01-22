@@ -1,0 +1,10 @@
+{
+  "simulation": "scalecube.BasicSimulation",
+  "simulationId": "basicsimulation",
+  "start": 1485059510942,
+  "description": "null",
+  "scenarios": ["scalecube-greeting"],
+  "assertions": [
+
+  ]
+}
